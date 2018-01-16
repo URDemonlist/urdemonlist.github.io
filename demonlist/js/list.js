@@ -51,7 +51,7 @@ const list = [
     desc: `n/a`,
     verificationVid: 'www.youtube.com/watch?v=uSPCHI6LxdQ&t=21s',
     vids: [{
-      user: 'SirGuillester',
+      user: 'SrGuillester',
       percent: 100,
       link: 'www.youtube.com/watch?v=Xp5mlIpa59E&t=12s'
     }],
@@ -83,6 +83,9 @@ const list = [
       percent: 100,
       link: 'www.youtube.com/watch?v=y8ZyzbrVl_0'
     },
+           {user: 'SrGuillester', percent: 69, link: 'https://www.youtube.com/watch?v=bGYbV4fDkz4'},
+           {user: 'Rain22 GD', percent: 50, link: 'https://www.youtube.com/watch?v=frA-huNUxXI&t'},
+           {user: 'Skullo', percent: 68, link: 'https://www.youtube.com/watch?v=6oP8zJjx4fY'},
            {
              user: 'MullsY Dash',
              percent: 100,
@@ -109,7 +112,7 @@ const list = [
         link: 'www.youtube.com/watch?v=5ShSXtWgLvc'
       },
       {
-        user: 'SirGuillester',
+        user: 'SrGuillester',
         percent: 100,
         link: 'www.youtube.com/watch?v=2NPxVpff35w',
       },
@@ -162,7 +165,7 @@ const list = [
   },
   {
     name: 'Factory Realm X',
-    author: 'Helpegasus',
+    author: 'Helpegasus [Enzeux]',
     hacked: false,
     percentToQualify: 59,
     desc: '',
@@ -184,7 +187,7 @@ const list = [
   },
   {
     "name": "Instant Execution",
-    "author": "Plexidit and more",
+    "author": "Plexidit and more [HequinoX]",
     "percentToQualify": "62",
     "desc": "n/a",
     "verificationVid": "https://www.youtube.com/watch?v=Knz2Arp0N5s",
@@ -262,7 +265,7 @@ const list = [
   },
   {
     "name": "Red World",
-    "author": "SirGuillester",
+    "author": "SrGuillester",
     "percentToQualify": "64",
     "desc": "n/a",
     "verificationVid": 'https://www.youtube.com/watch?v=hL24xcJPnyY',
@@ -292,7 +295,7 @@ const list = [
     "hacked": false,
     "vids": [
         {
-          user: 'SirGuillester',
+          user: 'SrGuillester',
           percent: 100,
           link: 'www.youtube.com/watch?v=Fkamkm5pBCo'
         },
@@ -330,7 +333,7 @@ const list = [
   },
   {
     "name": "A Darker Fate",
-    "author": "LogiC and Marwec",
+    "author": "LogiC and Marwec [Combined]",
     "percentToQualify": "67",
     "desc": "n/a",
     "verificationVid": "www.youtube.com/watch?v=QqzMg9mkM2A?t=4h28m12s",
@@ -392,7 +395,7 @@ const list = [
   },
   {
     "name": "Magnix",
-    "author": "ScpLanst/Supernight GM [SirGuillester]",
+    "author": "ScpLanst/Supernight GM [SrGuillester]",
     "percentToQualify": "66",
     "desc": "n/a",
     "verificationVid": "www.youtube.com/watch?v=t_qOT85NzGU",
@@ -575,5 +578,25 @@ const list = [
       
       ],
     key: 11.5
-  }
+  },
+  {
+    name: 'Northernsence',
+    author: 'ElectroMario2001 [Luqualizer]',
+    percentToQualify: 47,
+    key: 8.5,
+    desc: "",
+    verificationVid: "",
+    hacked: false,
+    vids: []
+  },
+  {
+    name: 'Kinetics',
+    author: 'Conra17',
+    percentToQualify: 58,
+    key: 16.5,
+    desc: "",
+    verificationVid: "",
+    hacked: false,
+    vids: []
+  },
 ];
