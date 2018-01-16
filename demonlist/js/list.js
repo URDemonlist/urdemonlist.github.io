@@ -585,7 +585,7 @@ const list = [
     percentToQualify: 47,
     key: 8.5,
     desc: "",
-    verificationVid: "",
+    verificationVid: "https://youtu.be/dJuwyw1Pvpg",
     hacked: false,
     vids: []
   },
