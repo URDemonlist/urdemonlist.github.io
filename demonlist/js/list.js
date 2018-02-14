@@ -206,6 +206,16 @@ const list = [
     key: 22
   },
   {
+    "name": "Red Coronation",
+    "author": "Ryan LC and more [SebQuero11]",
+    "percentToQualify": "60",
+    "desc": "n/a",
+    "verificationVid": "www.youtube.com/watch?v=BVk5VsKyTvg",
+    "hacked": false,
+    "vids": [],
+    key: 26
+  },
+  {
     "name": "Cosmorush 21",
     "author": "Pennutoh [SebQuero11]",
     "percentToQualify": "64",
@@ -359,7 +369,7 @@ const list = [
     "verificationVid": "",
     "hacked": false,
     "vids": [],
-    key: 26
+    key: 26.5
   },
   {
     "name": "The Last Straw",
