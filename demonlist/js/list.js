@@ -1,7 +1,7 @@
 const list = [
   {
-    name: 'Death Corridor',
-    author: 'KaotikJumper',
+    name: 'Death Corridor Z',
+    author: 'Sunix',
     id: 'n/a',
     hacked: true,
     percentToQualify: 46,
@@ -136,31 +136,14 @@ const list = [
     key: 21
   },
   {
-    name: 'Fexty',
-    author: 'lSkyJax',
+    name: 'Inner Hell',
+    author: 'KaotikJumper [Meatius]',
     id: 'n/a',
     hacked: false,
-    percentToQualify: 59,
+    percentToQualify: 46,
     desc: 'n/a',
-    verificationVid: 'www.youtube.com/watch?v=xwe1MbOjdpU&t=1s',
-    vids: [{
-        user: 'Jacob Firestone',
-        percent: 100,
-        link: 'www.youtube.com/watch?v=Zolzg4sxeFs'
-      },
-      {
-        user: 'TTHAdam',
-        percent: 100,
-        link: 'www.youtube.com/watch?v=rku73853Rco'
-      },
-      {
-        user: 'PlasmaShock',
-        percent: 100,
-        link: 'www.youtube.com/watch?v=G5CRITTn14Q'
-      },
-           {user: 'GeometryJosh', percent: 100, link: 'https://youtu.be/SEAZI4rBWWg'},
-           {user: 'Atomic', percent: 100, link: 'https://youtu.be/HR2BzKGisAQ'}
-    ],
+    verificationVid: '',
+    vids: [],
     key: 10
   },
   {
@@ -369,11 +352,11 @@ const list = [
   },
   */
   {
-    "name": "Red Coronation",
-    "author": "Ryan LC and more [SebQuero11]",
-    "percentToQualify": "60",
+    "name": "Galactic Machine",
+    "author": "Komp [Riot]",
+    "percentToQualify": "70",
     "desc": "n/a",
-    "verificationVid": "www.youtube.com/watch?v=BVk5VsKyTvg",
+    "verificationVid": "",
     "hacked": false,
     "vids": [],
     key: 26
@@ -434,6 +417,16 @@ const list = [
       "link": "www.youtube.com/watch?v=p6St3MBrwP4"
     }],
     key: 29
+  },
+  {
+    "name": "1234",
+    author: "ViruZ",
+    percentToQualify: "68",
+    desc: "",
+    verificationVid: "",
+    hacked: false,
+    vids: [],
+    key: 29.5
   },
   {
     "name": "Belic",
@@ -525,6 +518,16 @@ const list = [
     hacked: false,
     vids: [{user: 'VileX', percent: 100, link: 'https://youtu.be/oTMc15P_dps'}],
     key: 27
+  },
+  {
+    name: "Erruvent",
+    author: "Snowr33de and more",
+    percentToQualify: 60,
+    desc: "",
+    verificationVid: "",
+    hacked: false,
+    vids: [],
+    key: 27.5
   },
   {
     name: "Chaotic Machine",
