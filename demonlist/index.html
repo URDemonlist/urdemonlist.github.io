@@ -118,8 +118,7 @@
         if (!entry.hacked && (entry.verificationVid !== null && entry.verificationVid !== "")) {
           entry.verificationVid = entry.verificationVid
             .replace(/www\.youtube.com\/watch\?v=/gi, '')
-            .replace(/\/youtu\.be/gim, '')
-            .replace(/?(\w)+/gim, '')
+            .replace(/\/youtu\.be/gi, '')
             .replace(/&t=\d+s/gi, '')
             .replace(/https:\/\//gi, '')
         }
