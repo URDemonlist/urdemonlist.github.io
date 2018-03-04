@@ -125,6 +125,7 @@
         }
         $("#levelname").html(entry.name + (entry.hacked ? " <span class='hacked'>HACKED</span>" : ""));
         $("#inside-level-author").text(entry.author);
+        $("#leveldescription").empty();
         $("#leveldescription").text(entry.desc);
         $("#levelvid").empty();
         if (!entry.hacked && (entry.verificationVid !== null && entry.verificationVid !== "")) {
