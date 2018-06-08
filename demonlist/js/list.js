@@ -1,4 +1,4 @@
-const d = [
+const d = {list: [
 	{
 		"vids": [],
 		"name": "Crimson Planet",
@@ -1538,4 +1538,4 @@ const d = [
 		"verificationVid": "",
 		"key": 99
 	}
-];const list = d.list;const version = d.version;
+], version: [3, 0, 0]};const list = d.list;const version = d.version;
