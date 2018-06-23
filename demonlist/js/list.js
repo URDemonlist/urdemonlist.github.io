@@ -183,20 +183,23 @@ const d = {
 			"key": 16
 		},
 		{
-			"vids": [],
+			"vids": [
+				{
+					"user": "Kevtom",
+					"link": "https://youtu.be/8F-Vp2ohhFU",
+					"percent": 100
+				},
+				{
+					"user": "Sunix",
+					"link": "https://youtu.be/pbzOUwLvUxA",
+					"percent": 100
+				}
+			],
 			"name": "Penultimate Phase",
 			"author": "Nwolc [Skullo]",
 			"percentToQualify": "51",
 			"verificationVid": "https://youtu.be/dSbbTl9nVrw",
 			"key": 17
-		},
-		{
-			"vids": [],
-			"name": "Ziroikabi",
-			"author": "RoiMousti [EndLevel]",
-			"percentToQualify": "53",
-			"verificationVid": "https://youtu.be/7dLxmtFKb_Q",
-			"key": 18
 		},
 		{
 			"name": "Poltergeist Reborn",
@@ -232,7 +235,7 @@ const d = {
 					"link": "https://youtu.be/5Iu3kXjU-Qo"
 				}
 			],
-			"key": 19
+			"key": 18
 		},
 		{
 			"name": "Athanasia",
@@ -254,7 +257,7 @@ const d = {
 					"link": "www.youtube.com/watch?v=GlMEHiujKl0"
 				}
 			],
-			"key": 20
+			"key": 19
 		},
 		{
 			"vids": [],
@@ -262,7 +265,7 @@ const d = {
 			"author": "ViRuZ",
 			"percentToQualify": "49",
 			"verificationVid": "https://www.youtube.com/watch?v=rf5RAmYvHN4",
-			"key": 21
+			"key": 20
 		},
 		{
 			"vids": [],
@@ -270,7 +273,7 @@ const d = {
 			"author": "Sminx [Luqualizer]",
 			"percentToQualify": "44",
 			"verificationVid": "https://www.youtube.com/watch?v=KEuFavVAl2Y",
-			"key": 22
+			"key": 21
 		},
 		{
 			"vids": [
@@ -284,7 +287,7 @@ const d = {
 			"author": "Kugelblitz and more [Stormfly]",
 			"percentToQualify": "54",
 			"verificationVid": "https://youtu.be/pu4m4mpRlhI",
-			"key": 23
+			"key": 22
 		},
 		{
 			"vids": [],
@@ -292,7 +295,7 @@ const d = {
 			"author": "Filqh [Meatius]",
 			"percentToQualify": "48",
 			"verificationVid": "https://www.youtube.com/watch?v=wH0HsbLdN8g",
-			"key": 24
+			"key": 23
 		},
 		{
 			"vids": [],
@@ -300,7 +303,7 @@ const d = {
 			"author": "GD Sirius and more [Wooshi999]",
 			"percentToQualify": "54",
 			"verificationVid": "https://www.youtube.com/watch?v=12Gs-nmJIlM",
-			"key": 25
+			"key": 24
 		},
 		{
 			"vids": [
@@ -314,7 +317,7 @@ const d = {
 			"author": "- loovle - [Visionari]",
 			"percentToQualify": "57",
 			"verificationVid": "",
-			"key": 26
+			"key": 25
 		},
 		{
 			"name": "WcropoliX",
@@ -366,7 +369,7 @@ const d = {
 					"percent": 48
 				}
 			],
-			"key": 27
+			"key": 26
 		},
 		{
 			"vids": [],
@@ -374,13 +377,13 @@ const d = {
 			"author": "Datchet and more [Meatius]",
 			"percentToQualify": "50",
 			"verificationVid": "https://www.youtube.com/watch?v=kWmi6BpX2fI",
-			"key": 28
+			"key": 27
 		},
 		{
 			"name": "Northernsence",
 			"author": "ElectroMario2001 [Luqualizer]",
 			"percentToQualify": 47,
-			"key": 29,
+			"key": 28,
 			"desc": "",
 			"verificationVid": "https://youtu.be/dJuwyw1Pvpg",
 			"hacked": false,
@@ -406,7 +409,7 @@ const d = {
 					"link": "https://youtu.be/UQ-71BuZNtU"
 				}
 			],
-			"key": 30
+			"key": 29
 		},
 		{
 			"vids": [],
@@ -414,7 +417,7 @@ const d = {
 			"author": "Blue Star and more",
 			"percentToQualify": "44",
 			"verificationVid": "https://www.youtube.com/watch?v=H-3zWN6Itak",
-			"key": 31
+			"key": 30
 		},
 		{
 			"vids": [],
@@ -422,7 +425,7 @@ const d = {
 			"author": "Sunix [Meatius]",
 			"percentToQualify": "48",
 			"verificationVid": "https://www.youtube.com/watch?v=hCTTJaYCvaA",
-			"key": 32
+			"key": 31
 		},
 		{
 			"vids": [],
@@ -430,7 +433,7 @@ const d = {
 			"author": "CakeySan and more [MetaManZ]",
 			"percentToQualify": "58",
 			"verificationVid": "https://youtu.be/JoSAi6rFQho",
-			"key": 33
+			"key": 32
 		},
 		{
 			"vids": [],
@@ -438,7 +441,7 @@ const d = {
 			"author": "Blue Star",
 			"percentToQualify": "51",
 			"verificationVid": "https://www.youtube.com/watch?v=5E4dYi-EOvk",
-			"key": 34
+			"key": 33
 		},
 		{
 			"vids": [],
@@ -446,7 +449,7 @@ const d = {
 			"author": "Zanna83 [Aquiver]",
 			"percentToQualify": "62",
 			"verificationVid": "https://www.youtube.com/watch?v=mYV_WnzEFPE",
-			"key": 35
+			"key": 34
 		},
 		{
 			"name": "Inner Hell",
@@ -468,7 +471,7 @@ const d = {
 					"percent": 94
 				}
 			],
-			"key": 36
+			"key": 35
 		},
 		{
 			"name": "Mujigae",
@@ -478,7 +481,7 @@ const d = {
 			"verificationVid": "www.youtube.com/watch?v=j-q_Fd1Hrso",
 			"hacked": false,
 			"vids": [],
-			"key": 37
+			"key": 36
 		},
 		{
 			"vids": [],
@@ -486,7 +489,7 @@ const d = {
 			"author": "Delcherro and more [Meatius]",
 			"percentToQualify": "67",
 			"verificationVid": "https://www.youtube.com/watch?v=9OAPpsCZvsA",
-			"key": 38
+			"key": 37
 		},
 		{
 			"vids": [],
@@ -494,7 +497,7 @@ const d = {
 			"author": "Klavish and more [Yozyo]",
 			"percentToQualify": "56",
 			"verificationVid": "https://www.youtube.com/watch?v=zDWZJIo9k5g",
-			"key": 39
+			"key": 38
 		},
 		{
 			"vids": [],
@@ -502,7 +505,7 @@ const d = {
 			"author": "Motu  [Skullo]",
 			"percentToQualify": "64",
 			"verificationVid": "https://youtu.be/6v77--l4-6c",
-			"key": 40
+			"key": 39
 		},
 		{
 			"vids": [],
@@ -510,7 +513,7 @@ const d = {
 			"author": "STARxd [STARxd]",
 			"percentToQualify": "48",
 			"verificationVid": "https://www.youtube.com/watch?v=UN4cNfSAytQ",
-			"key": 41
+			"key": 40
 		},
 		{
 			"name": "Game Over",
@@ -526,7 +529,7 @@ const d = {
 					"link": "https://youtu.be/gaRRQHSmU4M"
 				}
 			],
-			"key": 42
+			"key": 41
 		},
 		{
 			"vids": [],
@@ -534,7 +537,7 @@ const d = {
 			"author": "GGbuild [Tompp]",
 			"percentToQualify": "55",
 			"verificationVid": "https://www.youtube.com/watch?v=zWChH7qh-Cc",
-			"key": 43
+			"key": 42
 		},
 		{
 			"name": "Red Coronation",
@@ -544,7 +547,7 @@ const d = {
 			"verificationVid": "www.youtube.com/watch?v=BVk5VsKyTvg",
 			"hacked": false,
 			"vids": [],
-			"key": 44
+			"key": 43
 		},
 		{
 			"vids": [],
@@ -552,7 +555,7 @@ const d = {
 			"author": "KeiAs and more [PlusXenon]",
 			"percentToQualify": "55",
 			"verificationVid": "https://www.youtube.com/watch?v=b-TvXhPyUXg",
-			"key": 45
+			"key": 44
 		},
 		{
 			"vids": [],
@@ -560,7 +563,7 @@ const d = {
 			"author": "MrPPs and more [Cinci]",
 			"percentToQualify": "64",
 			"verificationVid": "https://www.youtube.com/watch?v=3sTH5AMNmbU",
-			"key": 46
+			"key": 45
 		},
 		{
 			"vids": [],
@@ -568,7 +571,7 @@ const d = {
 			"author": "Nwolc [EndLevel]",
 			"percentToQualify": "65",
 			"verificationVid": "https://www.youtube.com/watch?v=A3JTGRxhRuw",
-			"key": 47
+			"key": 46
 		},
 		{
 			"vids": [],
@@ -576,7 +579,7 @@ const d = {
 			"author": "Metalface221 and Polarbeahr",
 			"percentToQualify": "61",
 			"verificationVid": "https://www.youtube.com/watch?v=LDpjnLcQwG8",
-			"key": 48
+			"key": 47
 		},
 		{
 			"vids": [
@@ -595,7 +598,7 @@ const d = {
 			"author": "Levo [Lucid]",
 			"percentToQualify": "69",
 			"verificationVid": "https://www.youtube.com/watch?v=pmfHb-QLbqE",
-			"key": 49
+			"key": 48
 		},
 		{
 			"name": "A Darker Fate",
@@ -621,7 +624,7 @@ const d = {
 					"link": "https://youtu.be/zg6Y5Kx8Kn8"
 				}
 			],
-			"key": 50
+			"key": 49
 		},
 		{
 			"vids": [],
@@ -629,7 +632,7 @@ const d = {
 			"author": "Team1n [hotball1]",
 			"percentToQualify": "61",
 			"verificationVid": "https://www.youtube.com/watch?v=_qZ-32AwL6s",
-			"key": 51
+			"key": 50
 		},
 		{
 			"vids": [
@@ -648,7 +651,7 @@ const d = {
 			"author": "Luqualizer",
 			"percentToQualify": "60",
 			"verificationVid": "https://www.youtube.com/watch?v=YY_NRebGNFA",
-			"key": 52
+			"key": 51
 		},
 		{
 			"vids": [
@@ -672,7 +675,7 @@ const d = {
 			"author": "VoidSquad [BrianTheBurger]",
 			"percentToQualify": "56",
 			"verificationVid": "https://www.youtube.com/watch?v=yV8jA9yU-JM",
-			"key": 53
+			"key": 52
 		},
 		{
 			"vids": [],
@@ -680,7 +683,7 @@ const d = {
 			"author": "Zipixbox [Minute29]",
 			"percentToQualify": "68",
 			"verificationVid": "https://www.youtube.com/watch?v=p8-h0H3Fj-o",
-			"key": 54
+			"key": 53
 		},
 		{
 			"vids": [],
@@ -688,7 +691,7 @@ const d = {
 			"author": "Bianox and more [SrGuillester]",
 			"percentToQualify": "67",
 			"verificationVid": "https://www.youtube.com/watch?v=ZV590RxANVM",
-			"key": 55
+			"key": 54
 		},
 		{
 			"vids": [],
@@ -696,7 +699,7 @@ const d = {
 			"author": "Genius BoNe & Xiko [YoshinoDash]",
 			"percentToQualify": "67",
 			"verificationVid": "https://www.youtube.com/watch?v=Ubst_mo5XTs",
-			"key": 56
+			"key": 55
 		},
 		{
 			"vids": [],
@@ -704,7 +707,7 @@ const d = {
 			"author": "TMNGaming [Kevtom]",
 			"percentToQualify": "57",
 			"verificationVid": "https://www.youtube.com/watch?v=9Ng5Vsbqbzo",
-			"key": 57
+			"key": 56
 		},
 		{
 			"vids": [],
@@ -712,7 +715,7 @@ const d = {
 			"author": "Luicho [Platnuu]",
 			"percentToQualify": "70",
 			"verificationVid": "https://www.youtube.com/watch?v=j9WagH2eQMs",
-			"key": 58
+			"key": 57
 		},
 		{
 			"name": "Galactic Machine",
@@ -748,7 +751,7 @@ const d = {
 					"percent": 100
 				}
 			],
-			"key": 59
+			"key": 58
 		},
 		{
 			"vids": [],
@@ -756,7 +759,7 @@ const d = {
 			"author": "Metalface221",
 			"percentToQualify": "52",
 			"verificationVid": "https://www.youtube.com/watch?v=hscaSc2P9ZQ",
-			"key": 60
+			"key": 59
 		},
 		{
 			"name": "Deadly Corridor",
@@ -802,7 +805,7 @@ const d = {
 					"percent": 100
 				}
 			],
-			"key": 61
+			"key": 60
 		},
 		{
 			"vids": [],
@@ -810,13 +813,13 @@ const d = {
 			"author": "Lucidal and more [HelloBird]",
 			"percentToQualify": "71",
 			"verificationVid": "https://www.youtube.com/watch?v=avjKTyBn2NQ",
-			"key": 62
+			"key": 61
 		},
 		{
 			"name": "Kinetics",
 			"author": "Conra17",
 			"percentToQualify": 58,
-			"key": 63,
+			"key": 62,
 			"desc": "",
 			"verificationVid": "",
 			"hacked": false,
@@ -844,7 +847,7 @@ const d = {
 			"author": "ViRuZ",
 			"percentToQualify": "68",
 			"verificationVid": "https://www.youtube.com/watch?v=_cmR38PDe0Y",
-			"key": 64
+			"key": 63
 		},
 		{
 			"vids": [],
@@ -852,7 +855,7 @@ const d = {
 			"author": "ThePrimeEvil [ThePrimeEvil]",
 			"percentToQualify": "50",
 			"verificationVid": "https://www.youtube.com/watch?v=dsa867yM9TE",
-			"key": 65
+			"key": 64
 		},
 		{
 			"vids": [],
@@ -860,7 +863,7 @@ const d = {
 			"author": "ScpLanst and OverZero [HequinoX]",
 			"percentToQualify": "57",
 			"verificationVid": "https://www.youtube.com/watch?v=WOcoDHmZLrQ",
-			"key": 66
+			"key": 65
 		},
 		{
 			"vids": [],
@@ -868,7 +871,7 @@ const d = {
 			"author": "HequinoX",
 			"percentToQualify": "62",
 			"verificationVid": "https://www.youtube.com/watch?v=aGWI_UqeSzo",
-			"key": 67
+			"key": 66
 		},
 		{
 			"name": "The Elysium",
@@ -889,7 +892,7 @@ const d = {
 					"link": "https://youtu.be/VhPgSYapxVg"
 				}
 			],
-			"key": 68
+			"key": 67
 		},
 		{
 			"vids": [
@@ -903,7 +906,7 @@ const d = {
 			"author": "Shuri",
 			"percentToQualify": "60",
 			"verificationVid": "https://www.youtube.com/watch?v=daIqxt05aCY",
-			"key": 69
+			"key": 68
 		},
 		{
 			"vids": [
@@ -917,7 +920,7 @@ const d = {
 			"author": "Invective and more [WormFodder]",
 			"percentToQualify": "61",
 			"verificationVid": "https://www.youtube.com/watch?v=jw5pfh1T2CU",
-			"key": 70
+			"key": 69
 		},
 		{
 			"vids": [],
@@ -925,7 +928,7 @@ const d = {
 			"author": "non4med [Marwec107]",
 			"percentToQualify": "54",
 			"verificationVid": "https://www.youtube.com/watch?v=rNeFS64i7u0",
-			"key": 71
+			"key": 70
 		},
 		{
 			"name": "Instant Execution",
@@ -951,7 +954,7 @@ const d = {
 					"percent": 100
 				}
 			],
-			"key": 72
+			"key": 71
 		},
 		{
 			"name": "Angelic Blood",
@@ -1006,9 +1009,14 @@ const d = {
 					"user": "Kevtom",
 					"link": "https://youtu.be/5kfr7WY2oJk",
 					"percent": 100
+				},
+				{
+					"user": "Zalgaryth",
+					"link": "https://www.youtube.com/watch?v=n_P-Kb_WCKA",
+					"percent": 100
 				}
 			],
-			"key": 73
+			"key": 72
 		},
 		{
 			"vids": [
@@ -1062,7 +1070,7 @@ const d = {
 			"author": "zylenox",
 			"percentToQualify": "70",
 			"verificationVid": "https://www.youtube.com/watch?v=KbCnWz4atBc",
-			"key": 74
+			"key": 73
 		},
 		{
 			"vids": [],
@@ -1070,7 +1078,7 @@ const d = {
 			"author": "Stormfly and more",
 			"percentToQualify": "73",
 			"verificationVid": "https://youtu.be/yQB4BxpBAXk",
-			"key": 75
+			"key": 74
 		},
 		{
 			"vids": [],
@@ -1078,7 +1086,7 @@ const d = {
 			"author": "Jakerz95 [RLOL]",
 			"percentToQualify": "71",
 			"verificationVid": "https://www.youtube.com/watch?v=CYmwA8vz37M",
-			"key": 76
+			"key": 75
 		},
 		{
 			"name": "The Chaos Machine",
@@ -1104,7 +1112,7 @@ const d = {
 					"link": "https://youtube.com/watch?v=jzden0f88V0"
 				}
 			],
-			"key": 77
+			"key": 76
 		},
 		{
 			"name": "Gammaray",
@@ -1121,7 +1129,7 @@ const d = {
 					"percent": 100
 				}
 			],
-			"key": 78
+			"key": 77
 		},
 		{
 			"vids": [],
@@ -1129,7 +1137,7 @@ const d = {
 			"author": "iNighTi [ViRuZ]",
 			"percentToQualify": "65",
 			"verificationVid": "https://www.youtube.com/watch?v=zLlkSKwCgVw",
-			"key": 79
+			"key": 78
 		},
 		{
 			"vids": [],
@@ -1137,7 +1145,7 @@ const d = {
 			"author": "HequinoX and more",
 			"percentToQualify": "68",
 			"verificationVid": "https://www.youtube.com/watch?v=p0Sm3UCSKJs",
-			"key": 80
+			"key": 79
 		},
 		{
 			"vids": [
@@ -1196,7 +1204,7 @@ const d = {
 			"author": "iAtomici [iAtomic]",
 			"percentToQualify": "57",
 			"verificationVid": "https://www.youtube.com/watch?v=Iz0PDh5siFQ",
-			"key": 81
+			"key": 80
 		},
 		{
 			"vids": [],
@@ -1204,7 +1212,7 @@ const d = {
 			"author": "Mactanow and more [HequinoX]",
 			"percentToQualify": "57",
 			"verificationVid": "https://www.youtube.com/watch?v=0Qs60CcxBfQ",
-			"key": 82
+			"key": 81
 		},
 		{
 			"vids": [],
@@ -1212,7 +1220,7 @@ const d = {
 			"author": "HyperDrive",
 			"percentToQualify": "62",
 			"verificationVid": "https://www.youtube.com/watch?v=Y-jlr_N2GmE",
-			"key": 83
+			"key": 82
 		},
 		{
 			"name": "Future Demoness X",
@@ -1228,7 +1236,7 @@ const d = {
 					"link": "www.youtube.com/watch?v=0ltf7ejzAaA"
 				}
 			],
-			"key": 84
+			"key": 83
 		},
 		{
 			"vids": [],
@@ -1236,7 +1244,7 @@ const d = {
 			"author": "Edgeleaf and more [zoklev]",
 			"percentToQualify": "66",
 			"verificationVid": "https://www.youtube.com/watch?v=fYljiDzxZW8&feature=youtu.be",
-			"key": 85
+			"key": 84
 		},
 		{
 			"vids": [],
@@ -1244,7 +1252,7 @@ const d = {
 			"author": "Zelda [koreaqwer]",
 			"percentToQualify": "54",
 			"verificationVid": "https://youtu.be/R5IPkU4o3P8",
-			"key": 86
+			"key": 85
 		},
 		{
 			"vids": [],
@@ -1252,7 +1260,7 @@ const d = {
 			"author": "PG1004",
 			"percentToQualify": "70",
 			"verificationVid": "https://m.youtube.com/watch?v=TimpEvMCFl4",
-			"key": 87
+			"key": 86
 		},
 		{
 			"name": "The Last Straw",
@@ -1273,7 +1281,7 @@ const d = {
 					"link": "https://youtu.be/KhGFCkbjDZc"
 				}
 			],
-			"key": 88
+			"key": 87
 		},
 		{
 			"name": "Belic",
@@ -1309,7 +1317,7 @@ const d = {
 					"percent": 100
 				}
 			],
-			"key": 89
+			"key": 88
 		},
 		{
 			"vids": [],
@@ -1317,7 +1325,7 @@ const d = {
 			"author": "xMale & Luci [ElFranz]",
 			"percentToQualify": "77",
 			"verificationVid": "https://www.youtube.com/watch?v=qQk0EhPBTAk",
-			"key": 90
+			"key": 89
 		},
 		{
 			"vids": [
@@ -1366,7 +1374,7 @@ const d = {
 			"author": "KitsuARG [AbysS]",
 			"percentToQualify": "72",
 			"verificationVid": "https://www.youtube.com/watch?v=tBPvSUUWaKE",
-			"key": 91
+			"key": 90
 		},
 		{
 			"name": "Red World",
@@ -1417,7 +1425,7 @@ const d = {
 					"percent": 100
 				}
 			],
-			"key": 92
+			"key": 91
 		},
 		{
 			"vids": [],
@@ -1425,7 +1433,7 @@ const d = {
 			"author": "Mulpan [AngelBaton]",
 			"percentToQualify": "77",
 			"verificationVid": "https://youtu.be/Vnu4jcdatCM",
-			"key": 93
+			"key": 92
 		},
 		{
 			"vids": [],
@@ -1433,7 +1441,7 @@ const d = {
 			"author": "Onnikonna [Zynvire]",
 			"percentToQualify": "74",
 			"verificationVid": "https://youtu.be/5r9YahCq_Lw",
-			"key": 94
+			"key": 93
 		},
 		{
 			"vids": [],
@@ -1441,7 +1449,7 @@ const d = {
 			"author": "VirtualCrack and more [Dorami]",
 			"percentToQualify": "66",
 			"verificationVid": "https://www.youtube.com/watch?v=cvgCa7H0aK0",
-			"key": 95
+			"key": 94
 		},
 		{
 			"name": "Leziclub",
@@ -1457,7 +1465,7 @@ const d = {
 					"link": "https://youtu.be/oTMc15P_dps"
 				}
 			],
-			"key": 96
+			"key": 95
 		},
 		{
 			"name": "Erruvent",
@@ -1473,7 +1481,7 @@ const d = {
 					"percent": 100
 				}
 			],
-			"key": 97
+			"key": 96
 		},
 		{
 			"vids": [
@@ -1502,7 +1510,7 @@ const d = {
 			"author": "Tygrysek",
 			"percentToQualify": "75",
 			"verificationVid": "",
-			"key": 98,
+			"key": 97,
 			"hacked": true
 		},
 		{
@@ -1511,12 +1519,12 @@ const d = {
 			"author": "Team GaonNuri [KeiAs]",
 			"percentToQualify": "58",
 			"verificationVid": "https://www.youtube.com/watch?v=rbhogZ_QcXM",
-			"key": 99
+			"key": 98
 		}
 	],
 	"version": [
 		4,
 		1,
-		255
+		259
 	]
 };const list = d.list;const version = d.version;
