@@ -1429,19 +1429,11 @@ const d = {
 		},
 		{
 			"vids": [],
-			"name": "Es Dilar Nos",
-			"author": "Mulpan [AngelBaton]",
-			"percentToQualify": "77",
-			"verificationVid": "https://youtu.be/Vnu4jcdatCM",
-			"key": 92
-		},
-		{
-			"vids": [],
 			"name": "Lazarus",
 			"author": "Onnikonna [Zynvire]",
 			"percentToQualify": "74",
 			"verificationVid": "https://youtu.be/5r9YahCq_Lw",
-			"key": 93
+			"key": 92
 		},
 		{
 			"vids": [],
@@ -1449,7 +1441,7 @@ const d = {
 			"author": "VirtualCrack and more [Dorami]",
 			"percentToQualify": "66",
 			"verificationVid": "https://www.youtube.com/watch?v=cvgCa7H0aK0",
-			"key": 94
+			"key": 93
 		},
 		{
 			"name": "Leziclub",
@@ -1465,7 +1457,7 @@ const d = {
 					"link": "https://youtu.be/oTMc15P_dps"
 				}
 			],
-			"key": 95
+			"key": 94
 		},
 		{
 			"name": "Erruvent",
@@ -1481,7 +1473,7 @@ const d = {
 					"percent": 100
 				}
 			],
-			"key": 96
+			"key": 95
 		},
 		{
 			"vids": [
@@ -1510,7 +1502,7 @@ const d = {
 			"author": "Tygrysek",
 			"percentToQualify": "75",
 			"verificationVid": "",
-			"key": 97,
+			"key": 96,
 			"hacked": true
 		},
 		{
@@ -1519,12 +1511,12 @@ const d = {
 			"author": "Team GaonNuri [KeiAs]",
 			"percentToQualify": "58",
 			"verificationVid": "https://www.youtube.com/watch?v=rbhogZ_QcXM",
-			"key": 98
+			"key": 97
 		}
 	],
 	"version": [
 		4,
 		1,
-		259
+		260
 	]
 };const list = d.list;const version = d.version;
