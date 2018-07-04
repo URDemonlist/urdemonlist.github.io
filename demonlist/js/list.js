@@ -1255,12 +1255,36 @@ const d = {
 			"key": 85
 		},
 		{
+			"vids": [
+				{
+					"user": "Skullo",
+					"link": "https://youtu.be/dr33c2AMogo",
+					"percent": 100
+				},
+				{
+					"user": "Sunix",
+					"link": "https://youtu.be/BiFm6mnNyEw",
+					"percent": 100
+				},
+				{
+					"user": "Loeckske",
+					"link": "https://youtu.be/Y2wYvmW2Jwk",
+					"percent": 100
+				}
+			],
+			"name": "Underground",
+			"author": "Metalface221",
+			"percentToQualify": "77",
+			"verificationVid": "https://youtu.be/y7hwUNvqV90",
+			"key": 86
+		},
+		{
 			"vids": [],
 			"name": "Disorientation",
 			"author": "PG1004",
 			"percentToQualify": "70",
 			"verificationVid": "https://m.youtube.com/watch?v=TimpEvMCFl4",
-			"key": 86
+			"key": 87
 		},
 		{
 			"name": "The Last Straw",
@@ -1281,7 +1305,7 @@ const d = {
 					"link": "https://youtu.be/KhGFCkbjDZc"
 				}
 			],
-			"key": 87
+			"key": 88
 		},
 		{
 			"name": "Belic",
@@ -1317,7 +1341,7 @@ const d = {
 					"percent": 100
 				}
 			],
-			"key": 88
+			"key": 89
 		},
 		{
 			"vids": [],
@@ -1325,7 +1349,7 @@ const d = {
 			"author": "xMale & Luci [ElFranz]",
 			"percentToQualify": "77",
 			"verificationVid": "https://www.youtube.com/watch?v=qQk0EhPBTAk",
-			"key": 89
+			"key": 90
 		},
 		{
 			"vids": [
@@ -1374,7 +1398,7 @@ const d = {
 			"author": "KitsuARG [AbysS]",
 			"percentToQualify": "72",
 			"verificationVid": "https://www.youtube.com/watch?v=tBPvSUUWaKE",
-			"key": 90
+			"key": 91
 		},
 		{
 			"name": "Red World",
@@ -1425,7 +1449,7 @@ const d = {
 					"percent": 100
 				}
 			],
-			"key": 91
+			"key": 92
 		},
 		{
 			"vids": [],
@@ -1433,7 +1457,7 @@ const d = {
 			"author": "Onnikonna [Zynvire]",
 			"percentToQualify": "74",
 			"verificationVid": "https://youtu.be/5r9YahCq_Lw",
-			"key": 92
+			"key": 93
 		},
 		{
 			"vids": [],
@@ -1441,7 +1465,7 @@ const d = {
 			"author": "VirtualCrack and more [Dorami]",
 			"percentToQualify": "66",
 			"verificationVid": "https://www.youtube.com/watch?v=cvgCa7H0aK0",
-			"key": 93
+			"key": 94
 		},
 		{
 			"name": "Leziclub",
@@ -1457,7 +1481,7 @@ const d = {
 					"link": "https://youtu.be/oTMc15P_dps"
 				}
 			],
-			"key": 94
+			"key": 95
 		},
 		{
 			"name": "Erruvent",
@@ -1473,7 +1497,7 @@ const d = {
 					"percent": 100
 				}
 			],
-			"key": 95
+			"key": 96
 		},
 		{
 			"vids": [
@@ -1502,7 +1526,7 @@ const d = {
 			"author": "Tygrysek",
 			"percentToQualify": "75",
 			"verificationVid": "",
-			"key": 96,
+			"key": 97,
 			"hacked": true
 		},
 		{
@@ -1511,12 +1535,12 @@ const d = {
 			"author": "Team GaonNuri [KeiAs]",
 			"percentToQualify": "58",
 			"verificationVid": "https://www.youtube.com/watch?v=rbhogZ_QcXM",
-			"key": 97
+			"key": 98
 		}
 	],
 	"version": [
 		4,
 		1,
-		260
+		264
 	]
 };const list = d.list;const version = d.version;
